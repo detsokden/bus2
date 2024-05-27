@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-@media only screen and (max-width: 600px) {
 * {
     -webkit-scroll-behavior: smooth;
     overflow-y: hidden;
@@ -335,7 +334,6 @@ a {
 }
 .hide {
     display: none;
-}
 }
 
 
